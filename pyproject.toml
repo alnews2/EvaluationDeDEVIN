@@ -26,9 +26,9 @@ dev = [
   "pytest>=9.1.1",
   "pytest-qt>=4.5.0",
   "pytest-cov>=7.1.0",
-  "mypy>=2.3.1",
-  "ruff>=0.16.7",
-  "pre-commit>=4.6.2",
+  "mypy>=2.4.0",
+  "ruff>=0.17.1",
+  "pre-commit>=4.7.0",
 ]
 
 [project.gui-scripts]
